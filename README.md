@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhijeet Gawas
 ===============================
 
-Digital Transformation Intern | Incoming Associate Software Engineer
+Ex-Digital Transformation Intern | Incoming Associate Software Engineer
 --------------------------------------------------------------------
 
 I am a MCA (Master's of Computer Application) student. I am passionate about learning and implementing new technologies and developed various projects ranging from Command Line Application (CLA) to Web Development to Machine Learning. I have published my first paper in Springer Conference Year 2020, in the field of Natural Language Processing (NLP) and Machine Learning.
